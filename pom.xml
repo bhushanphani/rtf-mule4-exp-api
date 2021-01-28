@@ -5,7 +5,7 @@
 
 	<groupId>053b837f-a1ee-43ad-8855-4d9617a2de79</groupId>
 	<artifactId>rtf-mule4-exp-api</artifactId>
-    <version>1.0.30</version>
+    <version>1.0.39</version>
     <packaging>mule-application</packaging>
 
 	<name>rtf-mule4-exp-api</name>
